@@ -93,7 +93,3 @@ Output: [0, 1, 3, 4, 2, 5]
 Input: Weighted graph with 5 vertices
 Output: [(2,3,1), (1,2,2), (1,3,3), (0,1,4)]
 ```
-
-## License
-
-Feel free to use and modify this code for your own projects.
